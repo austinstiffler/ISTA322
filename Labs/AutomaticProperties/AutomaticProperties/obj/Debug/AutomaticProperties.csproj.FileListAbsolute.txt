@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\austi\MSSA2021\ISTA322\Labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
