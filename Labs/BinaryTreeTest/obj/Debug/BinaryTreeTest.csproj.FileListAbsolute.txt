@@ -1,0 +1,10 @@
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\bin\Debug\BinaryTree.dll
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+C:\Users\austi\MSSA2021\ISTA322\Labs\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb
